@@ -14,8 +14,8 @@ Enter an integer: 7
 ```
 
 ```text
-Enter an integer: 12
-12 is an even number.
+Enter an integer: 10
+10 is an even number.
 ```
 
 ## How to Run
